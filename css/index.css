@@ -230,7 +230,7 @@ nav ul li:hover a {
     margin-top: 9em;
   }
   .appoverviwe {
-    height: 100em;
+    height: 105em;
     margin-left: 30px;
     padding: 0 10px 0 10px;
   }
@@ -342,7 +342,8 @@ nav ul li:hover a {
 }
 @media (max-width: 767px) and (max-width: 1024px) {
   .major {
-    margin-top: 60em;
+    margin-top: 65em;
+    position:sticky;
   }
   .major3,
   .major2 {
