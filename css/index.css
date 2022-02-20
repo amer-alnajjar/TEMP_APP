@@ -342,7 +342,7 @@ nav ul li:hover a {
 }
 @media (max-width: 767px) and (max-width: 1024px) {
   .major {
-    margin-top: 65em;
+    margin-top: 67em;
     position:sticky;
   }
   .major3,
